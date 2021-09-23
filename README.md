@@ -1,5 +1,5 @@
 - 👋 Hi, I’m StasonFox
-- 👀 I’m interested in becoming a Junior Software Engineer
+- 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning React JS
 - ✨ I’m currently working through the FreeCodeCamp curriculum
 - 📫 How to reach me: https://www.linkedin.com/in/stasonfox
