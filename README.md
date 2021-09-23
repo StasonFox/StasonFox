@@ -1,4 +1,4 @@
-- 👋 Hi, I’m StasonFox
+- 👋 Hi, I’m Stason
 - 👀 I’m interested in becoming a Software Engineer
 - 🌱 I’m currently learning React JS
 - ✨ I’m currently working through the FreeCodeCamp curriculum
