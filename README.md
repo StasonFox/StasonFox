@@ -26,4 +26,3 @@
 
 ### Connect 📫
 [![LinkedIn](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_24x24.png)](https://www.linkedin.com/in/stasonfox)
-
