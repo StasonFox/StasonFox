@@ -20,9 +20,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" align="left" width="24" height="24">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bash/bash-original.svg" align="left" width="24" height="24">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" align="left" width="24" height="24">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" align="left" width="24" height="24">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pycharm/pycharm-original.svg" align="left" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" align="left" width="24" height="24">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-plain.svg" width="24" height="24">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-plain.svg" align="left" width="24" height="24">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="24" height="24">
 
 ### Connect 📫
 [![LinkedIn](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_24x24.png)](https://www.linkedin.com/in/stasonfox)
