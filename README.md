@@ -1,5 +1,5 @@
 ### Hi, my name is Stason Fox 🦊
-## I'm an aspiring Software Developer 👨‍💻
+## I'm an aspiring Software/Web Developer 👨‍💻
 
 - 🖥️ I’m interested in learning software development and becoming a Software/Web Developer
 - ⚙️ I'm currently working through the FreeCodeCamp curriculum
