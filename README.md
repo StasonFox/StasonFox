@@ -1,7 +1,7 @@
 ### Hi, my name is Stason Fox 🦊
-## I'm an aspiring Software/Web Developer 👨‍💻
+## I'm an aspiring Software Engineer 👨‍💻
 
-- 🖥️ I’m interested in learning software development and becoming a Software/Web Developer
+- 🖥️ I’m interested in learning software development and becoming a Software Engineer
 - ⚙️ I'm currently working through the FreeCodeCamp curriculum
 - 📖 I’m currently learning web development with FreeCodeCamp and Scrimba
 - 🎮 My favorite hobbies are spending time with my family, playing video games, playing electric guitar, and making beer
