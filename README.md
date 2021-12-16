@@ -1,5 +1,5 @@
 ### Hi, my name is Stason Fox 🦊
-## I'm a Software Engineer 👨‍💻
+## I'm a Software Developer 👨‍💻
 
 - 🖥️ I’m interested in learning software development
 - ⚙️ I'm currently working through the FreeCodeCamp curriculum as well as Scrimba courses
