@@ -2,7 +2,7 @@
 ## I'm a developer 👨‍💻
 
 - 🖥️ I’m interested in learning fullstack development
-- ⚙️ I'm currently working through the FreeCodeCamp curriculum as well as Scrimba courses
+- ⚙️ I'm currently working through various projects and improving my skills
 - 📖 I’m currently learning fullstack development
 - 🎮 My favorite hobbies are spending time with my family, playing video games, playing electric guitar, and making beer
 
