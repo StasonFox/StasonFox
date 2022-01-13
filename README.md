@@ -1,5 +1,5 @@
 ### Hi, my name is Stason Fox 🦊
-## I'm a developer 👨‍💻
+## I'm a developer/analyst 👨‍💻
 
 - 🖥️ I’m interested in learning fullstack development
 - ⚙️ I'm currently working through various projects and improving my skills
