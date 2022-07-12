@@ -1,9 +1,9 @@
 ### Hi, my name is Stason Fox 🦊
-## I'm a BI/Data Analyst | Developer 👨‍💻
+## I'm a Data Analyst | Developer 👨‍💻
 
-- 🖥️ I’m interested in learning more about BI/data analytics
+- 🖥️ I’m interested in learning more about data analytics
 - ⚙️ I'm currently working through various projects
-- 📖 I’m currently learning BI/data analytics
+- 📖 I’m currently learning data analytics
 - 🎮 My favorite hobbies are spending time with my family, playing video games, and playing electric guitar
 
 ### Languages and Tools 🛠️
