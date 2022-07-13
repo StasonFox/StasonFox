@@ -1,5 +1,5 @@
 ### Hi, my name is Stason Fox 🦊
-## I'm a Data Analyst | Developer 👨‍💻
+## I'm a Data Analyst and Developer 👨‍💻
 
 - 🖥️ I’m interested in learning more about data analytics
 - ⚙️ I'm currently working through various projects
