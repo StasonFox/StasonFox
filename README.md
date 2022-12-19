@@ -1,5 +1,5 @@
-### Hi, my name is Stason Fox 🦊
-## I'm a Health Information Specialist 👨‍💻
+# Hi, my name is Stason Fox 🦊
+### I'm a Health Information Specialist 👨‍💻
 
 ### Languages and Tools 🛠️
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" align="left" width="24" height="24">
@@ -20,5 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" align="left" width="24" height="24">
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/codepen/codepen-plain.svg" width="24" height="24">
 
-### Connect 📫
+### Find me on the web 🌎
 [![LinkedIn](https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_24x24.png)](https://www.linkedin.com/in/stasonfox)
+<a href="https://stason-fox.github.io/" target="_blank"><img src="https://user-images.githubusercontent.com/86129740/208487194-75b52c3e-0c85-40fe-8e48-feb0be19c1c3.png" alt="picture" width="43"/></a>
