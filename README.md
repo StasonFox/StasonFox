@@ -1,5 +1,5 @@
 # Hi, my name is Stason Fox 🦊
-### I'm a Health Information Specialist 👨‍💻
+## I'm a Health Information Specialist 👨‍💻
 
 ### Languages and Tools 🛠️
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" align="left" width="24" height="24">
