@@ -1,10 +1,5 @@
 ### Hi, my name is Stason Fox 🦊
-## I'm a Data Analyst and Developer 👨‍💻
-
-- 🖥️ I’m interested in learning more about data analytics
-- ⚙️ I'm currently working through various projects
-- 📖 I’m currently learning data analytics
-- 🎮 My favorite hobbies are spending time with my family, playing video games, and playing electric guitar
+## I'm a Health Information Specialist 👨‍💻
 
 ### Languages and Tools 🛠️
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original.svg" align="left" width="24" height="24">
